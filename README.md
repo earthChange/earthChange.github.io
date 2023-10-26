@@ -1,3 +1,3 @@
 # Bootstrap-Website
-Bootstrap Website made from a Bootstrap template
+Bootstrap Website for The Earth Change Virtual Machine; made from a Bootstrap template
 https://github.com/uideck/play-bootstrap
